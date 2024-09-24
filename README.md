@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Rafael Camillo Vahteric Isenburg 😁🚀😎
 
  <div>
-   <a href="https://github.com/devemdobro">
+   <a href="https://github.com/RafaelIsenburg/RafaelIsenburg/edit/main/README.md">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=gruvbox"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=radical"/>
 </div>
     
 <div style="display: inline_block"><br>
