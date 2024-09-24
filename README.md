@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/devemdobro">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=radical"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=gruvbox"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me seguenas redes abaixo!
+### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.linkedin.com/in/rafael-camillo-vatheric-isenburg-90b6a320b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
