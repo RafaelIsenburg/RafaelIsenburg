@@ -37,7 +37,7 @@
 <br/>
 ##Ferramenta para teste:
 <div style="display: inline_block"><br>
-<img align="center" alt="PHPUnit" height="30" width="40" img="https://download.logo.wine/logo/PHPUnit/PHPUnit-Logo.wine.png">
+<img align="center" alt="PHPUnit" height="30" width="40" src="https://github.com/SEU-USUARIO/SEU-REPO/raw/main/phpunit-icon.svg">
 </div>
 
 <br/>
