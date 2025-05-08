@@ -40,6 +40,7 @@
 <strong>
   <span style="color:#gray;">PHP</span><span style="color:blue;">Unit</span>
 </strong>
+<img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg">         
 </div>
 
 <br/>
