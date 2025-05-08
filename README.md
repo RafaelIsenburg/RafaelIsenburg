@@ -38,7 +38,7 @@
 ##Ferramenta para teste:
 <div style="display: inline_block"><br>
 <strong>
-  <span style="color:#6e6e6e;">PHP</span><span style="color:#007acc;">Unit</span>
+  <span style="color:#gray;">PHP</span><span style="color:blue;">Unit</span>
 </strong>
 </div>
 
