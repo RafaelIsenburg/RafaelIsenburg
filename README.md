@@ -37,7 +37,9 @@
 <br/>
 ##Ferramenta para teste:
 <div style="display: inline_block"><br>
-<img align="center" alt="PHPUnit" height="30" width="40" src="https://github.com/SEU-USUARIO/SEU-REPO/raw/main/phpunit-icon.svg">
+<strong>
+  <span style="color:#6e6e6e;">PHP</span><span style="color:#007acc;">Unit</span>
+</strong>
 </div>
 
 <br/>
